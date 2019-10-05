@@ -1,5 +1,5 @@
 # Implement-Route-Planner
-Implemented a Google-maps style routing algorithm using A star search algorithm find the shortest path between two points.
+Implement a Google-maps style routing algorithm using A star search algorithm find the shortest path between two points.
 
 Project includes the following files:
 
